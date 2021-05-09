@@ -44,7 +44,7 @@ print(fahr_to_celsius(71))
 #   1. Is the concept of function clear to you? If not, what do you not understand?
 
 #   2. What are some of the benefits of using functions?
-#   
+#    
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
