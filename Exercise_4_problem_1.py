@@ -28,8 +28,9 @@ def fahr_to_celsius(temp_fahrenheit):
 # 
 # Check that the function produces correct answers for:
 # 1. What is 48° Fahrenheit in Celsius? 
+print(fahr_to_celsius(48))
 # 2. What about 71° Fahrenheit in Celsius?
-
+print(fahr_to_celsius(71))
 # ### Check your code
 # 
 # - Make sure you used the given variable names
@@ -41,13 +42,16 @@ def fahr_to_celsius(temp_fahrenheit):
 # We would like you to think about and answer the following questions based on the materials and ideas that you learned during the lecture:
 # 
 #   1. Is the concept of function clear to you? If not, what do you not understand?
+
 #   2. What are some of the benefits of using functions?
 #   
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
-#
-#
+
+#   1. It is clear to me.
+
+#   2. Using functions is useful when the same process is used many times in a program, and the amount of source code in the program can be significantly reduced.
 #
 #
 
