@@ -37,7 +37,7 @@ print(fahr_to_celsius(71))
 # - Check that you have added necessary comments to your code
 # - Check that your function has a docstring that describes what it does
 # 
-# ### Questions
+# ### Questions 
 # 
 # We would like you to think about and answer the following questions based on the materials and ideas that you learned during the lecture:
 # 
