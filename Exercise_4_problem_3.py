@@ -92,7 +92,7 @@ for i in temp_classes:
     zeros+=1
   elif i==1:
     ones+=1
-  elif i==2:
+  elif i==2: 
     twos+=1
   else:
     threes+=1
