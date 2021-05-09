@@ -26,7 +26,7 @@
 
 # YOUR CODE HERE to define temp_classifier
 def temp_classifier(temp_celsius): 
-  """Create a temp_classifier that classify the temperature and return the classification number"""
+  """Create a temp_classifier that classify the temperature and return the classification number""" 
 
 # Use your newly created function to print the answers to the following questions:
 
