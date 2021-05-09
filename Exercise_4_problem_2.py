@@ -36,7 +36,7 @@ def temp_classifier(temp_celsius):
   else:
     number=3
   return number
-
+ 
 
 
 
