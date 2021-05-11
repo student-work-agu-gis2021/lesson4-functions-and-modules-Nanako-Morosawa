@@ -62,7 +62,7 @@ temp_data =  [19, 21, 21, 21, 23, 23, 23, 21, 19, 21, 19, 21, 23, 27, 27, 28, 30
 #         1. Create a new variable called `temp_celsius` in which you should assign the temperature in Celsius using the `fahr_to_celsius` function to convert the Fahrenheit temperature into Celsius.
 #         2. Create a new variable called `temp_class` in which you should assign the temperature class number (0, 1, 2, or 3) using the `temp_classifier` function
 #         3. Add the `temp_class` value to the `temp_classes` list
-
+ 
 
 # YOUR CODE HERE
 import temp_functions  
