@@ -29,7 +29,7 @@ def temp_classifier(temp_celsius):
   """Create a temp_classifier that classify the temperature and return the classification number""" 
   if temp_celsius<-2:  
     number=0
-  elif -2<=temp_celsius<2:
+  elif -2<=temp_celsius<2: 
     number=1
   elif 2<=temp_celsius<15:
     number=2
