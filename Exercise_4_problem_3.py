@@ -87,7 +87,7 @@ twos=0
 threes=0
 for i in temp_classes:
   if i==0:
-    zeros+=1
+    zeros+=1 
   elif i==1:
     ones+=1
   elif i==2: 
