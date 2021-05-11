@@ -106,7 +106,7 @@ assert type(temp_classes) == list
 # Check that required variables exists and print their value (check manually that the answers make sense!):
 
 # CAUTION! Don't edit this line starts
-print(zeros,ones,twos,threes)
+print(zeros,ones,twos,threes) 
 # CAUTION! Don't edit this line ends
 
 # ### Check your code
