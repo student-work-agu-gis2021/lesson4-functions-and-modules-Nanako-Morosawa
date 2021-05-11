@@ -70,7 +70,7 @@ temp_classes=[]
 for i in temp_data:  
   temp_celsius=temp_functions.fahr_to_celsius(i) 
   temp_class=temp_functions.temp_classifier(temp_celsius) 
-  temp_classes.append(temp_class)
+  temp_classes.append(temp_class) 
 
 # #### Part 2 (continues)
 # 
