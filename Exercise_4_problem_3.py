@@ -81,7 +81,7 @@ for i in temp_data:
 #   
 
 # YOUR CODE HERE
-zeros=0
+zeros=0 
 ones=0
 twos=0
 threes=0
