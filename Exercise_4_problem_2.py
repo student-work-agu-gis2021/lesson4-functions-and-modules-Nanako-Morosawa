@@ -7,7 +7,7 @@
 # 
 # Here, you should create a function called `temp_classifier` that accepts a temperature value in Celsius that will be reclassified into integer numbers 0-3 based on following criteria:
 # 
-# | Return value | Classification criteria                                                  |
+# | Return value | Classification criteria                                                     |
 # | :----------: | :----------------------------------------------------------------------- |
 # | 0            | Temperatures below -2 degrees Celsius                                    |
 # | 1            | Temperatures equal or warmer than -2, but less than +2 degrees Celsius   |
